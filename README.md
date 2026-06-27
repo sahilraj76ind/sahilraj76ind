@@ -61,7 +61,7 @@ name: Sahil Raj
 role: Full Stack Developer & AI/ML Engineer
 institution: JECRC Foundation, Jaipur
 degree: B.Tech — Computer Science Engineering
-year: 2nd Year (2023 – 2027)
+year: 2nd Year (2024 – 2028)
 location: India 🇮🇳
 
 philosophy: >
