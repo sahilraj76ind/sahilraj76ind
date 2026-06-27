@@ -16,7 +16,7 @@
 
 ![University](https://img.shields.io/badge/JECRC%20Foundation-Jaipur-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=for-the-badge&logo=book&logoColor=white)
-![Year](https://img.shields.io/badge/2nd%20Year-2023--2027-5B21B6?style=for-the-badge&logo=calendar&logoColor=white)
+![Year](https://img.shields.io/badge/3rd%20Year-2024--2028-5B21B6?style=for-the-badge&logo=calendar&logoColor=white)
 ![Location](https://img.shields.io/badge/India-🇮🇳-4C1D95?style=for-the-badge&logoColor=white)
 
 </div>
