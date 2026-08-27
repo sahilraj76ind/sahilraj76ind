@@ -617,35 +617,6 @@ status: "Actively Building 🚀"
 
 ---
 
-## DSA Journey
-
-<br/>
-
-<div align="center">
-
-| Category | Topics | Status |
-|:---|:---|:---:|
-| **Arrays & Strings** | Sliding Window, Two Pointers, Prefix Sum | ✅ Active |
-| **Linked Lists** | Singly, Doubly, Fast & Slow Pointers | ✅ Active |
-| **Stacks & Queues** | Monotonic Stack, Deque, Priority Queue | 🔄 In Progress |
-| **Trees & BST** | Traversals, BST Operations, Segment Trees | 🔄 In Progress |
-| **Graphs** | BFS, DFS, Dijkstra, Topological Sort | 📋 Upcoming |
-| **Dynamic Programming** | Memoization, Tabulation, Classical DP | 📋 Upcoming |
-| **Greedy Algorithms** | Interval Scheduling, Activity Selection | 📋 Upcoming |
-| **Backtracking** | Permutations, Subsets, N-Queens | 📋 Upcoming |
-| **Bit Manipulation** | XOR Tricks, Bitmask DP | 📋 Upcoming |
-| **System Design** | HLD, LLD, Distributed Systems | 📋 Upcoming |
-
-</div>
-
-<br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sahilraj76?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/Sahilraj76/)
-
-<br/>
-
----
-
 ## AI Journey
 
 <br/>
